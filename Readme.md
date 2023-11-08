@@ -1,6 +1,6 @@
 # Yoda AI: Your Wise Companion
 
-<img src="/api-n/showcase/ai.png" width="100%" />
+<img src="./showcase/ai.png" width="100%" />
 
 Welcome to Yoda AI, your ultimate AI companion! Yoda is designed to be your go-to solution for a wide range of tasks, from answering questions and providing insights to offering assistance and entertainment. In this document, we'll introduce you to the exciting world of Yoda AI and guide you through getting started.
 
